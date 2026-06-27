@@ -67,6 +67,8 @@ export default function ContactForm() {
           </option>
           <option>Weekly pool service</option>
           <option>Bi-weekly pool service</option>
+          <option>One-time pool cleanup</option>
+          <option>Green pool recovery</option>
           <option>Chemical service plan</option>
           <option>Commercial pool service</option>
           <option>Filter cleaning</option>

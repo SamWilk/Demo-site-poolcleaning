@@ -46,6 +46,11 @@ const services = [
     href: "#contact-form",
   },
   {
+    title: "One-Time Pool Services",
+    copy: "Single-visit help for green pool recovery, algae cleanup, stain treatment, filter cleaning, or getting a pool ready for use.",
+    href: "#contact-form",
+  },
+  {
     title: "Chemical Service Plans",
     copy: "Water testing and chemical balancing for pool owners who prefer to handle cleaning but want the chemistry managed correctly.",
     href: "#contact-form",
@@ -60,6 +65,7 @@ const services = [
 const checklist = [
   "Weekly cleaning",
   "Bi-weekly cleaning",
+  "One-time cleanup",
   "Chemical balancing",
   "Filter cleaning",
   "Stain removal",
